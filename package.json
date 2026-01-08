@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.16.7",
-    "cookie": "^0.4.1",
+    "cookie": "^0.7.0",
     "regenerator-runtime": "^0.13.9",
     "terser": "^5.10.0"
   }
